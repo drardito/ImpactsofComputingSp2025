@@ -20,16 +20,24 @@ The goal of this week is to introduce ourselves to the three ethical frameworks 
 Read these three chapters from the [Matthews textbook](https://press.rebus.community/intro-to-phil-ethics/front-matter/what-is-an-open-textbook/). If you are reading the book online, use the "Contents" widget in the upper left to navigate the chapters. Otherwise, you can download it as a pdf.
 * [Chapter 3, How Can I Be a Better Person? On Virtue Ethics](https://press.rebus.community/intro-to-phil-ethics/chapter/how-can-i-be-a-better-person-on-virtue-ethics/)
 * [Chapter 5, Utilitarianism](https://press.rebus.community/intro-to-phil-ethics/chapter/utilitarianism/)
-* [Chapter 6, Kantian Deontology](https://press.rebus.community/intro-to-phil-ethics/chapter/utilitarianism/)
+* [Chapter 6, Kantian Deontology](https://press.rebus.community/intro-to-phil-ethics/chapter/kantian-deontology/)
 
-As you read these chapters, please make notes for yourself in an Office 365 or other document (just please don't use Apple's Pages). Then, upload your notes document(s) to [this folder](https://manhattanville-my.sharepoint.com/:f:/g/personal/gerald_ardito_mville_edu/EluqMGIjAkpDs6AmzYKJlzQBrMkKFuSQgV1aTjPmoNeC5A?e=f5aqzG). Be sure that the filename includes your name for easy reference. Note, you will continue to update this document as the course proceeds.
 
-The goal of these notes is to help you make sense of what you are reading and then having a reference to which you can refer as you apply these concepts (which you will start doing this week). I have placed an example of these notes in that folder for your reference.
+
+As you read these chapters, please **keep notes** in your **course notebook**. For each chapter: 
+
+	a) take notes on the chapters themselves, indicating what you think are the key points of each; 
+	
+	b) note any questions that you have about what you have read; and 
+	
+	c) take note of what struck you, what surprised you, and what you would want to know more about. 
+
+
 
 3. ***Interactions***
 
-   Now that you have done some listening and reading and thinking, it's time to interact with me and your classmates. These interactions will take place in Mattermost. For this week, please do these two things in Mattermost. 
-- First, *apply these ethical frameworks to the Week 1 scenario*. Referring back to your response to the ethical dilemma posed in Week 1 (the supermarket), evaluate your own response through the lends of each of the three ethical frameworks you have read about this week. If you are visual thinker feel free to respond using diagrams or charts or other images as well as via text. Please post this to the ***Week 2*** channel in Mattermost.
+   Now that you have done this reading and thinking, it's time to interact with me and your classmates. These interactions will take place in Mattermost. For this week, please do these two things in Mattermost. 
+- First, *apply these ethical frameworks to the Week 1 scenario*. Referring back to your response to the ethical dilemma posed in Week 1 (the supermarket), evaluate your own response through the lends of each of the three ethical frameworks you have read about this week. If you are visual thinker, feel free to respond using diagrams or charts or other images as well as via text. Please post this to the ***Week 2*** channel in Mattermost. You should post your response **no later than the end of the day on Friday, January 31**.
 - Second, *interact with one another*. This course is designed to be discussion intensive, and so I ask that you engage often and substantively with your classmates in these Mattermost discussions. I expect you to treat each other with respect and compassion (even when disagreeing), and to write in standard English.
 
-This work is due by the end of the day on **Monday, January 29th**.
+This work is due by the end of the day on **Monday, February 3rd**.
