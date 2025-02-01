@@ -1,4 +1,4 @@
-## Feedback from Week1 Discussion
+## Feedback from Impacts Week 1 Discussion
 
 ![boy at microphone](https://images.unsplash.com/photo-1453738773917-9c3eff1db985?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
@@ -8,22 +8,27 @@ Here is some feedback about your work in that discussion.
 
 1. ***Engagement/Interaction***. I was really pleased to see so much engagement. It looks like just about all of you posted your responses and then engaged in lots of interactions with your classmates. Most of your posts had replies from 3 or more of your classmates. Well done!
 
-2. ***Substance.*** I thought you collectively did a very nice job wrestling with this scenario and in identifying the criteria you would use to help you make a decision. I was also really pleased by the interactions you had and the ways in which you challenged on another. Also well done!
+2. ***Substance.*** I thought you collectively did a very nice job wrestling with this scenario and in identifying the criteria you would use to help you make a decision. I was also really pleased by the amount and quality of the interactions you had and the ways in which you respected and challenged on another. Also well done! Your discussions were very, very rich. Here are just a few highlights from your interactions.
+
+   | Student          | Discussion Highlight                                         | Ardito Comments                                              |
+   | ---------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+   | andrewpalmieri03 | The person in front of me isn’t obligated to offer their spot in line just because I’m running late. While it would be a kind gesture, their ethical principles and values may differ from mine. | You have powerfully introduced personal responsibility here, to which others engaged deeply. |
+   | nbarker          | When examining the given scenario, first we must dive into the differences between ***ethics*** and ***morals***. Ethics refers to the given societal standards that we in a society generally default to. On the other hand there are morals which are similar to ones creed or experiences. Morals are built up upon one's experiences which may lead an individual to act outside of societal norms. | Thanks for making the distinction between ***ethics*** and ***morals** |
+   | niyona           | While going about this, I would be very respectful and go into this situation as if I was on the other end and would want to be treated. I would be empathetic to their situation and understand if no is their option as I should have managed my time better and realized that the world and other people do not revolve around me. | You have introduced the notion of ***collective responsibility***, which is something we will explore more in depth soon. |
+   | jackscanlon23    | I would have to respect their decision and try and find another line that would be quicker for me to checkout at. I would use *kindness, honesty, and acceptance*. | You have done a great job pointing out that context matters in these situations, as does our willingness to be and feel connected with others. |
+   | jennay0930       | If I were in this scenario, the first thing I would ask myself is "Do I need this right now", or "Was this the right choice to come here before my appointment knowing anything could happen to set me back"? | As you read the material for Week 2, I think you are going to find some powerful connections here. |
+   | moragliaj        | Its no point in getting frustrated and blaming others for an issue I can quickly resolve since there is no one to blame but myself for my time management skills. | Another great example of ***personal responsibility***.      |
+   | kimberlymhg21    | I would approach them respectfully and ensure that I am ready to pay and check out quickly to minimize any inconvenience. If they declined, I would respect their decision, as they are under no obligation to accommodate me. | Please keep these ideas of morality in mind as we delve deeper in the course. |
+
+   
 
 3. ***Visualizations.*** I like to use computational tools to *analyze* these types of discussions. I think in a course of the Impacts of Computing, it makes sense (and for possibly interesting discussion) to use these types of computational tools. For this week (and throughout the course), I used/will use [Voyant Tools](https://voyant-tools.org/), which is a powerful tool designed to visualize various features of text. Here are some highlights of this analysis.
 
-   1. *Features of your writing.*  By looking at these features of your writing, it is possible to learn some high level characteristics of your work. ***Volume of writing*** is a measurement of the quantity of your collective writing. For this week, you collectively used about 2700 words, of which about 590 were unique. ***Vocabulary density*** is a measure of how rich or varied the vocabulary is in a given text or corpus. A vocabulary density of 0.198 means that, on average, about 19.8% of the words in the corpus are unique. All of this makes sense to me given the specificity of the scenario I designed. We will see how these features develop over the course of the semester.
+   1. *Topics.*  One type of visualization that Voyant Tools can generate is called ***Topics***. Here's how this visualization works (via the Voyant Tools documentation): *…words in each document are randomly assigned to a specified number of topics (you can determine the number of topics). The algorithm then goes through a number of iterations (50) and tries to refine the model of which terms are best suited to which topics (based on co-occurrence in the documents*. Here is what this topics model showed about your writing this week.
 
-      ![chart](https://github.com/drardito/impactsofcomputingfall2024/blob/main/Images/Impacts%20FA24%20Week1%20Features.png?raw=true)
+      ![chart](https://github.com/drardito/ImpactsofComputingSp2025/blob/main/Images/Impacts%20Week%201%20Topics.png?raw=true)
    
-   2. *Word Frequencies*. This word cloud represents the relative frequencies of the words you used in your posts. None of this is much of a surprise, since you were all writing about the same scenario. Still, it's good to see that this view of your postings mirrors what we might expect. One fun fact is the relatively high frequency of the word "pm," which is taken from the date/time stamp in Mattermost. This suggests that most of your writing is happening in the afternoons/evenings.
+      
    
-      ![](https://github.com/drardito/impactsofcomputingfall2024/blob/main/Images/Impacts%20FA24%20Week1%20Wordcloud.png?raw=true)
-   
-   3. *Relationships Between Words.* The third time of analysis I performed on your writing for Week 1 is called a ***collocation analysis***, in which we can look at the relationships between works used in your Mattermost posts. In this visualization, thicker grey lines indicate a higher number of connections between terms. I invite you to explore a [live version of this analysis](https://voyant-tools.org/?corpus=072feac6c1c55e62f1d0296a55b2745d&query=appointment&query=pm&query=items&view=CollocatesGraph), which will allow you to explore these connections in interesting ways.
-   
-      ![](https://github.com/drardito/impactsofcomputingfall2024/blob/main/Images/Impacts%20FA24%20Week1%20Collocations.png?raw=true)
 
-
-
-Please share your thoughts about any/all of this in the Week 1 discussion on Mattermost.
+I am eager to hear your thoughts about your Week 1 discussions as well as those about this way of providing feedback. Please share your thoughts about any/all of this in the Week 1 discussion on Mattermost.
